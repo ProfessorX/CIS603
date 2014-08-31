@@ -1,0 +1,13 @@
+* September, 2014
+
+
+** 20140831
+   - We model the world by "Games".
+   - Game theory and repeated interactions.
+   - Decision making.
+   - Social choices and mechanisms.
+   - [ ] Just as usual, the project matters.
+
+
+
+
