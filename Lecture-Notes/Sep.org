@@ -9,5 +9,38 @@
    - [ ] Just as usual, the project matters.
 
 
+** 20140903
+
+*** TODO Nash bargaining solution
+    - Repetition
+
+    - Communication
+
+    - Knowledge
+      - Existence of other players
+      - Actions of others
+      - Payoffs of others and outsiders
+
+    - Type of games
+      - Of conflicting interest
+      - Fully cooperative
+      - Competitive games: {Constant-sum, Zero-sum}
+
+    - Fictitious play, reinforce learning.
+
+    - The important thing is about the concept. (You have got to
+      understand the maths.)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
