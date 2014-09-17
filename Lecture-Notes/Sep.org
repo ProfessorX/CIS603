@@ -31,6 +31,51 @@
     - The important thing is about the concept. (You have got to
       understand the maths.)
 
+** 20140907
+
+*** President's choice                                        :Decision tree:[fn:1]
+    - Force students to share
+      - Fight it.
+        - President give include. (3,9)
+        - get kicked out. (-4,-5)
+      - Leave. (-5,1)
+      - Give include. (10,1)
+
+
+    - Not to share
+      - Fight in the next battle. (5,11)
+      - Be happy. (7,10)
+
+
+** 20140917
+
+*** CR4, 13:30
+    - Strategy
+      - Pure strategy
+      - Mixed strategy *maxmin*
+      - Val = arg max_{pi_i} min_{pi_-i} r(pi_i,pi_-i)
+      - All of them probability distribution
+
+    - yeah the good old linear programming.
+      - Dominant strategy. (Actually, because the "revenue" is linear,
+        so we can get the MAX at point bala bala.)
+
+      - Rationality. Ref: A beautiful mind. Multi-Agent systems,
+        programming and Mathematics.
+
+**** TODO Does the Nash Equilibrium actually tell you what the machine should do?
+     DEADLINE: <2014-09-17 Wed>
+
+
+*** TODO Courses, Tutorials and Programming
+
+
+* Footnotes
+
+[fn:1] Extensive-form games.
+
+
+
 
 
 
