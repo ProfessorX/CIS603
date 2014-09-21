@@ -69,6 +69,37 @@
 
 *** TODO Courses, Tutorials and Programming
 
+** 20140921
+
+*** Battle of the Sexes
+    - [(4,3), (2,2); (1,1), (3,4)]
+    - Strategy:
+      - Best response
+      - Nash equilibrium
+      - Iterative dominance
+    - *Optimality?*
+      - global or local, it's a question.
+      - optimal with respect to what?
+
+    - [(3,1) (0,0.5) (0,0)
+    (1,0.5) (1,1)  (5,0)
+    (0,1) (4,0.5) (0,0)]
+    - *Local Optimal* --> *Global Optimal* Sort of the
+      "transformation" of estimation maximization. 
+    - Pareto Optimality
+      - Pareto dominated (r'_i > r'_(i) && r'_(-i) > r'_(-i)
+        (2-dimension, use your mind)
+
+
+    
+
+
+
+
+
+
+
+
 
 * Footnotes
 
