@@ -90,8 +90,41 @@
       - Pareto dominated (r'_i > r'_(i) && r'_(-i) > r'_(-i)
         (2-dimension, use your mind)
 
+** 20140924
+   - is there a strategy that row can use that makes col indifferent
+     between its actions.
+   - is there a strategy that col can use that makes row indifferent.
 
-    
+*** Extensive-Form games
+
+**** President's choice                                        :Decision tree:[fn:1]
+     That's still something related to Nash Equilibrium, reference:
+     [[https://en.wikipedia.org/wiki/Nash_equilibrium][Nash Equilibrium]].
+     - Passions within Reason. (*REQUIRED READING*)
+     - Force students to share (a)
+       - Fight it.
+         - President give in. (3,9) (h)
+         - get kicked out. (-4,-5) (i)
+       - Leave. (-5,1) (d)
+       - Give include. (10,1) (e)
+
+
+     - Not to share (b)
+       - Fight in the next battle. (5,11) (f)
+       - Be happy. (7,10) (g)
+     - All possible choices
+       - President
+       - Students
+       - Construct a 4x6 matrix.
+
+
+
+
+
+
+
+
+     
 
 
 
