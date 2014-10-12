@@ -11,3 +11,13 @@
     - You are going to take actions that will maximize your own
       rewards.
     - Local optimal or global optimal, choose one.
+
+** 20141011 Decision making in repeated interactions
+
+*** Decision Making
+    - Nice
+    - Clear
+    - Forgiving
+    - Reciprocation 
+
+*** 
